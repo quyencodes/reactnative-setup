@@ -63,6 +63,12 @@ yarn add nativewind
 yarn add --dev tailwindcss@3.3.2
 ```
 
+If you run into an error, downgrading tailwindcss and installing it with npm may help:
+
+```bash
+npm install tailwindcss@3.3.2 --save-dev
+```
+
 ## Quickstart Instructions
 
 1. Open the terminal with `ctrl + backtick mark`, make sure to <b>change to the correct directory</b> and write the following command (install NPM packages):
