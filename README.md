@@ -69,6 +69,8 @@ If you run into an error, downgrading tailwindcss and installing it with npm may
 npm install tailwindcss@3.3.2 --save-dev
 ```
 
+Finally, run `npm i` to make sure node_modules is up to date
+
 ## Quickstart Instructions
 
 1. Open the terminal with `ctrl + backtick mark`, make sure to <b>change to the correct directory</b> and write the following command (install NPM packages):
